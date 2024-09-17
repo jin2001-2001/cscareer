@@ -1,9 +1,11 @@
 ---
-title: Hello World
+title: Jamlee Jin
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+You can download or view the PDF file [here]( /files/cv2024v7.pdf ).
+
+## A new personal website is building now, wait for the update!!
 
 ### Create a new post
 
